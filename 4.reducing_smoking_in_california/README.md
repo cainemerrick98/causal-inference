@@ -1,0 +1,1 @@
+# Synthetic Control - Estimating the Reduction in Smoking Due To Policy Intervention
