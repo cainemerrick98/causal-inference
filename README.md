@@ -1,4 +1,6 @@
-# Causal Inference Portfolio
+# Causal Inference
+
+In this repo I implement the most useful causal inference methods...
 
 ## Journey To CI
 Several years working as a data analyst/scientist in industry...
